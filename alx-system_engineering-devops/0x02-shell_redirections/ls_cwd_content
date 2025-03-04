@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x 2 primus-text primus-text 4096 Okt 25 20:19 .
+drwxrwxr-x 5 primus-text primus-text 4096 Okt 24 16:48 ..
+-rwxrw-r-- 1 primus-text primus-text   32 Okt 24 17:01 0-hello_world
+-rwxrw-r-- 1 primus-text primus-text   30 Okt 24 17:04 1-confused_smiley
+-rwxrw-r-- 1 primus-text primus-text   28 Okt 24 17:05 2-hellofile
+-rwxrw-r-- 1 primus-text primus-text   39 Okt 24 17:08 3-twofiles
+-rwxrw-r-- 1 primus-text primus-text   29 Okt 24 17:24 4-lastlines
+-rwxrw-r-- 1 primus-text primus-text   29 Okt 24 17:26 5-firstlines
+-rwxrw-r-- 1 primus-text primus-text   40 Okt 25 09:57 6-third_line
+-rwxrw-r-- 1 primus-text primus-text   72 Okt 25 20:18 7-file
+-rwxrw-r-- 1 primus-text primus-text   36 Okt 25 20:19 8-cwd_state
+-rw-rw-r-- 1 primus-text primus-text  744 Okt 24 17:26 iacta
+-rw-rw-r-- 1 primus-text primus-text    0 Okt 25 20:19 ls_cwd_content
