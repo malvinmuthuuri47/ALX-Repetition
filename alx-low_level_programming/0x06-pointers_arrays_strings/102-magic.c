@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * main - function that manipulates contiguous memory allocation to access
+ * other memory blocks and change the value contained there
+ *
+ * Return: Void
+ */
+
 int main(void)
 {
 	int n;
