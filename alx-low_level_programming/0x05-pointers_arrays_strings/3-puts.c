@@ -13,8 +13,8 @@ void _puts(char *str)
 
 	while (*message != '\0')
 	{
-		write(1, message, 1);
+		_putchar(*message);
 		message++;
 	}
-	write(1, "\n", 1);
+	_putchar('\n');
 }
